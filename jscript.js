@@ -22,3 +22,6 @@ else
 {
      document.querySelector("h1").innerHTML="draw";
 }
+function refreshPage(){
+    window.location.reload();
+}
